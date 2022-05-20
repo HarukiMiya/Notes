@@ -1,7 +1,7 @@
 # Notes
 
 ### Data Science
-------
+### ---
 ### Software Engineer
 ---
 ### Cyber Security 
