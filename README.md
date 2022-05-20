@@ -2,7 +2,6 @@
 
 ### Data Science
 
-<hr style="border:1px solid gray">
 #
 
 ### Software Engineer
