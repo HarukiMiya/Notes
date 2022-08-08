@@ -4,7 +4,9 @@
 * [Jupyter Notebook](https://github.com/HarukiMiya/Notes/blob/main/topics/jupyter.md)
 #
 
-### Software Engineer
+### Software
+*Web Dev
+*Mobile Dev
 
 #
 
