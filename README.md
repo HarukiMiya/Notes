@@ -1,7 +1,7 @@
 # Notes
 
 ### Data Science
-
+* [Jupyter Notebook](https://github.com/HarukiMiya/Notes/blob/main/topics/jupyter.md)
 #
 
 ### Software Engineer
