@@ -5,8 +5,8 @@
 #
 
 ### Software
-*Web Dev
-*Mobile Dev
+* Web Dev
+* Mobile Dev
 
 #
 
